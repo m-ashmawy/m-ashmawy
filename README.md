@@ -22,7 +22,7 @@
 <h2><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=20> Contact Me</h2>
 <a href="https://linkedin.com/in/m-elashmawy"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:muhammed.elashmawy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-GMail-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://api.whatsapp.com/send/?phone=+201205858831" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-0077B5?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
+<a href="https://wa.me/+201205858831" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-0077B5?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
 <br/><br/>
 
 
