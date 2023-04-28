@@ -60,7 +60,7 @@
   <summary><h2><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 25px> Github Stats and Activity</h2></summary>
   
   <h3>🔥 Streak Stats</h3>
-  <img src="https://streak-stats.demolab.com?user=m-ashmawy&border_radius=10&exclude_days=Fri"/>
+  <img src="https://streak-stats.demolab.com?user=m-ashmawy&border_radius=10&exclude_days=Fri" height="180px"/>
 
   <h3>💻 GitHub Profile Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api/?username=m-ashmawy&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=false&title_color=fb8c00&icon_color=fb8c00" height="180px"/>
