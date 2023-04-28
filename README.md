@@ -63,8 +63,8 @@
   <img src="https://streak-stats.demolab.com?user=m-ashmawy&border_radius=10&exclude_days=Fri"/>
 
   <h3>💻 GitHub Profile Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api/?username=m-ashmawy&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=false&title_color=fb8c00&icon_color=fb8c00" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-ashmawy&langs_count=8&layout=compact&theme=default&hide_border=false&title_color=fb8c00&icon_color=fb8c00&hide=Jupyter%20Notebook,Roff" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/?username=m-ashmawy&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=false&title_color=fb8c00&icon_color=fb8c00" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-ashmawy&langs_count=8&layout=compact&theme=default&hide_border=false&title_color=fb8c00&icon_color=fb8c00&hide=Jupyter%20Notebook,Roff" height="180px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
